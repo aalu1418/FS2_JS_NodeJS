@@ -3,7 +3,7 @@ const url = require("url");
 const hostname = "localhost";
 const port = 8080;
 
-//stored data
+//stored data (this could be made dynamic by using local storage and creating a form where things can be submitted)
 const data = {
   firstName: "Bob",
   lastName: "Smith",
